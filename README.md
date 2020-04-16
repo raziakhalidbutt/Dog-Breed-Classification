@@ -47,7 +47,7 @@ Following are the steps perform in dog_app notebook.
 
 <a name="Data"></a>
 # Data
-The data for this project is located [here]()
+The data for this project is located [here]().
 
 <a name="Results"></a>
 # Results
@@ -58,5 +58,5 @@ The data for this project is located [here]()
 * Model need much improvement so that it can also different between very similar dog breeds and can also detect multiple dogs in images. 
 * There is also need to increase more training data and the breed categories.  We also need to fine-tune hyperparameters. 
 
-
+You can find more in my [blog]().
 
