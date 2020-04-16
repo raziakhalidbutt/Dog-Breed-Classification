@@ -27,7 +27,7 @@ This project is part of Data Scientist Nanodegree Program from Udacity. The goal
 <a name="Steps"></a>
 # Steps
 
-Following are the steps perform in dog_app notebook.
+Following are the steps perform in dog_app.ipynb notebook.
 
     Step 0: Import Datasets
     Step 1: Detect Humans
@@ -36,6 +36,10 @@ Following are the steps perform in dog_app notebook.
     Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
     Step 5: Write Your Algorithm
     Step 6: Test Your Algorithm
+    
+<a name="Data"></a>
+# Data
+The data for this project is located [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).
 
 <a name="FileDescription"></a>
 # File Desciption
@@ -45,9 +49,6 @@ Following are the steps perform in dog_app notebook.
 * **saved_models folder:** models that attains the best validation loss.
 * **test-images folder:** Images in jpg format used to test the algorithm's predictions.
 
-<a name="Data"></a>
-# Data
-The data for this project is located [here]().
 
 <a name="Results"></a>
 # Results
