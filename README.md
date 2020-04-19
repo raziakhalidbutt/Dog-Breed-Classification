@@ -59,5 +59,5 @@ The data for this project is located [here](https://s3-us-west-1.amazonaws.com/u
 * Model need much improvement so that it can also differentiate between very similar dog breeds and can also detect multiple dogs in images. 
 * There is also need to increase more training data and the breed categories.  We also need to fine-tune hyperparameters. 
 
-You can find more in my [blog]().
+You can find more in my [blog](https://medium.com/@raziakhalidbutt/dog-breeds-classification-using-cnn-through-transfer-learning-60f614a834fb).
 
