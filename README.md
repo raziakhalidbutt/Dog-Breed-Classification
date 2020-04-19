@@ -1,4 +1,4 @@
-# Dog Breed Classification using CNN with Transfer Learning
+# Dog Breeds Classification using CNN with Transfer Learning
 
 # Table of content
 1. [Installation](#Installation)
